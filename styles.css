@@ -33,9 +33,8 @@ img {
     margin: 0 auto; /* Center images within their container */
 }
 
-a {
-    display: block;
-    margin-top: 10px; /* Add margin between the image and the link */
+img:hover {
+    opacity: 70%;
 }
 
 @media (max-width: 500px)  {
